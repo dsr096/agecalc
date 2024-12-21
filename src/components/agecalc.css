@@ -1,0 +1,38 @@
+.header{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.takeinput{
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+
+.input{
+    height: 60px;
+    width: 400px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid green;
+}
+
+body{
+    background-color: orange;
+}
+
+.button{
+    height: 40px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+    background-color: lightgreen;
+
+}
+
+.button:hover{
+    background-color: red;
+    color: black;
+}
