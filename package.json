@@ -1,5 +1,6 @@
 {
-  
+  "homepage": "https://dsr096.github.io/age-calculator-using-react",
+
 
   "name": "agecalc",
   
@@ -48,6 +49,9 @@
 
   "start": "react-scripts start",
   
+  "predeploy": "npm run build",
+
+  "deploy": "gh-pages -d build",
 
     
 
